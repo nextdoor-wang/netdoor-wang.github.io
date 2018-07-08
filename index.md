@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>NEXTDOOR-WANG</h1>
         <a href="http://weibo.com/u/5058179042" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://www.shell3.com/old_love_html" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
+        <a href="http://www.shell3.com/old_love_html" target="_blank"><img src="https://www.easyicon.net/api/resizeApi.php?id=1178128&size=96" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
