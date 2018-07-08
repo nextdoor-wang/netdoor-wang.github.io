@@ -1,8 +1,10 @@
 ---
 layout:     post
-title:      狗蛋爱小茜
+title:      亲爱的，你好
 category: blog
-description: 狗蛋爱小茜
+description: 亲爱的，你好
 ---
 
-## 狗蛋爱小茜
+## 
+爱你，让我觉得贫穷，也觉得富有
+教我收余恨，免娇嗔，改性情，且自新
